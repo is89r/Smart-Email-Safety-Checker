@@ -3,8 +3,8 @@ import pickle
 import re
 
 # ============ تحميل النموذج و أداة TF-IDF ============
-model = pickle.load(open("C:/Users/admin/Downloads/New folder (2)/phishing_model.pkl", "rb"))
-vectorizer = pickle.load(open("C:/Users/admin/Downloads/New folder (2)/tfidf_vectorizer.pkl", "rb"))
+model = pickle.load(open("phishing_model.pkl", "rb"))
+vectorizer = pickle.load(open("tfidf_vectorizer.pkl", "rb"))
 
 # ============ دالة تنظيف النص ============
 def clean_text(text):
