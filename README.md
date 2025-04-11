@@ -26,8 +26,6 @@ Built using `Python`, `Streamlit`, and `scikit-learn`.
 
 👉 [Click here to try the live app](https://smart-email-safety-checker-c3qundguieytxedu66mgad.streamlit.app/)
 
-> Replace the link above with your actual Streamlit Cloud URL.
-
 ---
 
 ## 🛠️ How to Run Locally
