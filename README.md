@@ -34,8 +34,8 @@ Built using `Python`, `Streamlit`, and `scikit-learn`.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/phishing-email-detector
-cd phishing-email-detector
+git clone https://github.com/is89r/Smart-Email-Safety-Checker
+cd Smart-Email-Safety-Checker
 
 # Install dependencies
 pip install -r requirements.txt
